@@ -22,4 +22,5 @@ public class Regex {
             System.out.println("Not Valid");
         }
     }
+
 }
